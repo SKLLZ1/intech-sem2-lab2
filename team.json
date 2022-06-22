@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a2"
+  },
+  "title": "Avangard",
+  "coach": "Zeppelin Brooks",
+  "players": [
+    "Xerxes Perry",
+    "Antonio Wright",
+    "Ozzy Young",
+    "Immanuel Jenkins"
+  ]
+},{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a3"
+  },
+  "title": "Adoms",
+  "coach": "Zephaniah Morris",
+  "players": [
+    "Ulrich Roberts",
+    "Raul Perry",
+    "Jace Perry",
+    "Orlando Jenkins"
+  ]
+},{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a4"
+  },
+  "title": "Arsenal",
+  "coach": "Watson Moore",
+  "players": [
+    "Xathieur Jones",
+    "Lewis Stewart",
+    "Jace Green",
+    "Umar Campbell"
+  ]
+},{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a5"
+  },
+  "title": "Barsa",
+  "coach": "Patrick Clark",
+  "players": [
+    "Troy Sanchez",
+    "Yash Cox",
+    "Trenton Bell",
+    "Killian Torres"
+  ]
+},{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a6"
+  },
+  "title": "Veres",
+  "coach": "Dominick Griffin",
+  "players": [
+    "Uthman Lewis",
+    "Ulysses Smith",
+    "Ronan Mitchell",
+    "Wilder Thomas"
+  ]
+},{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a7"
+  },
+  "title": "Volin",
+  "coach": "Zander Hughes",
+  "players": [
+    "Eduardo Clark",
+    "Alan Patterson",
+    "Xenophon Hayes",
+    "Adriel Clark"
+  ]
+},{
+  "_id": {
+    "$oid": "62b2d66f9b8ee94587c827a8"
+  },
+  "title": "Metalist",
+  "coach": "Harper Baker",
+  "players": [
+    "Roberto Baker",
+    "Jack Perez",
+    "Isaak Moore",
+    "Braden Edwards"
+  ]
+}]

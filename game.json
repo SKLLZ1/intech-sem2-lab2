@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "62b2d68a9b8ee94587c827ab"
+  },
+  "league": "Premier League",
+  "date": "2022-05-10",
+  "score": "0-2",
+  "team1": "Avangard",
+  "team2": "Metalist"
+},{
+  "_id": {
+    "$oid": "62b2d68a9b8ee94587c827ac"
+  },
+  "league": "Premier League",
+  "date": "2022-05-11",
+  "team1": "Barsa",
+  "team2": "Metalist",
+  "score": "0-1"
+},{
+  "_id": {
+    "$oid": "62b2d68a9b8ee94587c827ad"
+  },
+  "league": "Sky Bet Championship",
+  "date": "2022-03-12",
+  "team1": "Arsenal",
+  "team2": "Volin",
+  "score": "0-2"
+},{
+  "_id": {
+    "$oid": "62b2d68a9b8ee94587c827ae"
+  },
+  "league": "Sky Bet Championship",
+  "date": "2022-04-12",
+  "team1": "Veres",
+  "team2": "Arsenal",
+  "score": "1-1"
+}]
